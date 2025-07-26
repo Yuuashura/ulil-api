@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
 
 // Menggunakan rute lukisan
 // Semua permintaan ke /paintings akan ditangani oleh paintingRoutes
-app.use('/yuuashura', paintingRoutes);
+app.use('/api', paintingRoutes);
 
 // EKSPOR APLIKASI EXPRESS AGAR VERCEL BISA MENGGUNAKANNYA
 export default app;

@@ -1,4 +1,10 @@
-[
+{
+"paintings":[
+     {
+            "author" : "@Yuuashura",
+            "Github" : "https://github.com/yuuashura",
+            "Instagram" : "@yudis.ashura"
+        },
 {
 "id": 1,
 "title": "Hercules and the Lernaean Hydra",
@@ -300,3 +306,4 @@
 "price": "Rp 1.200.000.000"
 }
 ]
+}
