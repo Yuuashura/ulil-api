@@ -1,30 +1,34 @@
-import express from 'express';
-import cors from 'cors';
+// Mengimpor modul 'path' dan 'url' untuk menangani path file
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-// Mengimpor file rute LUKISAN yang baru
-import paintingRoutes from './routes/paintings.js';
 
+import express from 'express';
+import cors from 'cors';
+// Mengimpor file rute resep
+import recipeRoutes from './routes/recipes.js';
+
+// Inisialisasi aplikasi Express
+const app = express();
+const port = 3001;
 // Trik untuk mendapatkan __dirname di ES Modules
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Inisialisasi aplikasi Express
-const app = express();
-
 // Middleware
-app.use(cors()); 
-app.use(express.json());
+app.use(cors()); // Mengizinkan permintaan dari domain lain (Penting!)
+app.use(express.json()); // Mem-parsing body request JSON
 
-// Rute Utama - mengirim file HTML
+// Rute Utama
 app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+ res.sendFile(path.join(__dirname, 'public', 'index.html')); 
 });
 
-// Menggunakan rute lukisan
-// Semua permintaan ke /paintings akan ditangani oleh paintingRoutes
-app.use('/api', paintingRoutes);
+// Menggunakan rute resep
+// Semua permintaan ke /recipes akan ditangani oleh recipeRoutes
+app.use('/api', recipeRoutes);
 
-// EKSPOR APLIKASI EXPRESS AGAR VERCEL BISA MENGGUNAKANNYA
-export default app;
+// Menjalankan server
+app.listen(port, () => {
+  console.log(`🚀 Server berjalan di http://localhost:${port}`);
+});
