@@ -6,9 +6,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-let database = { 
-    author : [],
-    paintings: [] }; // Default ke array kosong
+let database = { }; // Default ke array kosong
 
 try {
   // Membaca file db.json dan mengubahnya menjadi objek JavaScript

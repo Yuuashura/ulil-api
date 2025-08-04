@@ -1,304 +1,835 @@
 {
-"data":[
-{
-"id": 1,
-"title": "Hercules and the Lernaean Hydra",
-"image": "https://www.artic.edu/iiif/2/2ae64c8a-266d-470a-a25a-c83127564636/full/843,/0/default.jpg",
-"artist": "Gustave Moreau",
-"years": "French, 1826-1898",
-"style": "Symbolism / Romanticism",
-"desc": "Perjuangan Hercules melawan Hydra sebagai simbol ketekunan dan keberanian dalam mitologi Yunani.",
-"price": "Rp 1.000.000.000"
-},
-{
-"id": 2,
-"title": "The Old Guitarist",
-"image": "https://www.artic.edu/iiif/2/4e7f3081-179a-af18-8abd-7908a7ae8c4e/full/843,/0/default.jpg",
-"artist": "Pablo Picasso",
-"years": "1901-1904",
-"style": " Ekspresionisme",
-"desc": "The Old Guitarist adalah salah satu lukisan paling ikonik dari Pablo Picasso, yang diciptakan pada masa Blue Period (1901–1904). Lukisan ini menggambarkan seorang pria tua yang kurus, duduk dalam posisi melengkung sambil memeluk gitar. Warna-warna biru monokromatik yang mendominasi lukisan ini mencerminkan suasana melankolis dan penderitaan emosional yang mendalam, baik dari subjek maupun sang seniman sendiri.",
-"price": "Rp 2.000.000.000.000"
-},
-{
-"id": 3,
-"title": "The Basket of Apples",
-"image": "https://www.artic.edu/iiif/2/52ac8996-3460-cf71-cb42-5c4d0aa29b74/full/1686,/0/default.jpg",
-"artist": "Paul Cezanne",
-"years": "French, 1839-1906",
-"style": "Post-Impressionism / Still Life",
-"desc": "Lukisan ini menggambarkan sekumpulan apel yang tampak tidak seimbang dalam keranjang di atas meja, ditemani sebotol anggur dan roti. Komposisi ini tampak “salah” secara perspektif, namun disengaja oleh Cézanne untuk mengeksplorasi bentuk dan ruang. Ia menentang aturan perspektif tradisional, menciptakan harmoni visual melalui bentuk geometris dan warna. Karya ini menjadi tonggak penting dalam sejarah seni modern.",
-"price": "Rp 1.600.000.000.000"
-},
-{
-"id": 4,
-"title": "Weaving",
-"image": "https://www.artic.edu/iiif/2/96e26f4f-c578-b14c-2714-2a565f19e0d0/full/843,/0/default.jpg",
-"artist": "Diego Rivera",
-"years": "1936",
-"style": "Mexican Muralism / Social Realism / Modernism",
-"desc": "Diego Rivera adalah pelukis revolusioner yang menggunakan seninya untuk menggambarkan realitas sosial dan sejarah Meksiko. Dalam banyak karyanya, termasuk Weaving, ia menampilkan kehidupan rakyat biasa—buruh tani, pekerja tekstil, dan komunitas adat—dalam adegan yang sarat makna sosial dan politik. Karya Weaving secara spesifik menyoroti para penenun perempuan dan peran penting perempuan dalam ekonomi lokal. Rivera menggambarkan mereka dengan kekuatan dan martabat, dalam komposisi yang simetris dan penuh warna.",
-"price": "Rp 80.000.000.000"
-},
-{
-"id": 5,
-"title": "The Rock",
-"image": "https://www.artic.edu/iiif/2/2843f22e-8ef1-2cd5-b53e-6712cd664e9a/full/843,/0/default.jpg",
-"artist": "Peter Blume",
-"years": "1944-48",
-"style": "American Modernism / Surrealist-Realist Allegory",
-"desc": "Peter Blume menciptakan The Rock antara tahun 1944-1948 sebagai lukisan komisi untuk keluarga Kaufmann (pemilik rumah Fallingwater oleh Frank Lloyd Wright). Karya ini menggambarkan formasi batu besar yang pecah namun bertahan, dikelilingi sisa reruntuhan, asap, serta pekerja yang membangun kembali dunia baru. Di sisi kanan, asap mengepul dari puing-puing—mengingatkan pengeboman di London saat Perang—sementara di kiri, sebuah bangunan baru berdiri dengan kerangka bangunan dan pekerja yang mengangkut material. Lukisan ini dianggap sebagai alegori harapan dan rekonstruksi pascaperang, simbol ketahanan dan imajinasi manusia di tengah kehancuran dan ketidakpastian ",
-"price": "Rp 320.000.000.000"
-},
-{
-"id": 6,
-"title": "Venus de Milo with Drawers",
-"image": "https://www.artic.edu/iiif/2/678c7a7a-b8c7-2857-7b97-f3c3501b8b1c/full/843,/0/default.jpg",
-"artist": "Salvador Dalí",
-"years": "1936",
-"style": "Surrealism / Surrealist Object / Assemblage",
-"desc": "Venus de Milo with Drawers adalah patung plester eksperimental yang dibuat oleh Salvador Dalí pada tahun 1936, mengambil referensi dari patung Yunani kuno Venus de Milo. Dalam interpretasi surreal-nya, Dalí menempatkan enam laci tersembunyi di kepala, dada, perut, dan kaki patung — lengkap dengan kenop berpompom bulu.Menurut Dalí, laci-laci ini melambangkan rahasia batin manusia yang hanya bisa diakses melalui psikoterapi, serta mencerminkan dualitas antara bentuk ideal klasik dan kompleksitas bawah sadar modern. Patung ini mencerminkan obsesi Dalí terhadap psikoanalisis dan dream imagery, serta menunjukkan bagaimana objek biasa bisa diberi makna simbolik melalui transformasi artistik..",
-"price": "Rp 48.000.000.000"
-},
-{
-"id": 7,
-"title": "A Young Lady with a Parrot",
-"image": "https://www.artic.edu/iiif/2/2d9fb8b5-b9a3-3e41-270e-3c480f7b317b/full/1686,/0/default.jpg",
-"artist": "Rosalba Carriera",
-"years": "c. 1730",
-"style": "Rococo / Pastel Portraiture",
-"desc": "A Young Lady with a Parrot dibuat sekitar tahun 1730 dengan media pastel di atas kertas biru, mounted pada papan berlapis. Lukisan ini menampilkan seorang wanita muda berpakaian anggun khas Rococo — gaun biru lembut, renda tipis, pita, dan kerudung transparan. Di tangannya, seekor burung nuri kecil menambahkan sentuhan eksotik dan simbolis. Carriera dengan cermat memperlihatkan tekstur kain, kilau mutiara, dan kesan sensual yang lembut namun penuh kendali. Warna parrot yang cerah menciptakan kontras yang menarik terhadap nuansa pastel lembut lainnya, sementara tatapan langsung sang model memberikan aura seduksi terkontrol — mencerminkan elegansi dan kecerdasan visual Rococo. Karya ini sering dianggap sebagai karya penting dalam portofolio Carriera dan awal popularitas pastel dalam potret aristokrat Eropa",
-"price": "Rp 650.000.000.000"
-},
-{
-"id": 8,
-"title": "The Watermill with the Great Red Roof",
-"image": "https://www.artic.edu/iiif/2/237c25a2-6051-a8e7-1610-a01938d4deab/full/1686,/0/default.jpg",
-"artist": "Meindert Hobbema",
-"years": "c. 1665",
-"style": "Dutch Baroque Landscape",
-"desc": "Lukisan ini menggambarkan suasana tenang pedesaan dengan kincir air besar yang atapnya berwarna merah menyala, berdiri di antara pepohonan rindang dan aliran sungai yang mengalir perlahan. Karya ini menunjukkan keterampilan Hobbema dalam menangkap tekstur alam dan permainan cahaya, menciptakan kesan damai dan harmoni antara manusia dan lingkungannya. Detail arsitektur bangunan, refleksi air, serta perspektif ruang yang dalam menjadi ciri khas karya ini.",
-"price": "Rp 80.000.000.000"
-},
-{
-"id": 9,
-"title": "Hero Construction",
-"image": "https://www.artic.edu/iiif/2/62f2ca7a-8c22-bb7e-9e3d-7453652a3350/full/843,/0/default.jpg",
-"artist": "Richard Hunt",
-"years": "United States (Artist's nationality:), 1958",
-"style": "Modernisme Abstrak",
-"desc": "Richard Hunt menciptakan Hero Construction pada tahun 1958, satu tahun setelah lulus dari School of the Art Institute of Chicago. Patung ini terdiri dari benda-benda bekas—pipa tua, potongan logam, dan bagian-bagian mobil—yang ia temukan di tempat rongsokan dan jalanan. Dengan menggunakan alat las seperti kuas lukis, Hunt menyatukan elemen-elemen ini menjadi sebuah bentuk yang abstrak namun tetap dapat dikenali. Hunt sangat tertarik dengan mitologi, dan Hero Construction memiliki keterkaitan dengan patung-patung pahlawan dari masa lalu dan masa kini, mulai dari patung Yunani kuno hingga monumen modern untuk tokoh-tokoh kenegaraan. Posisi tubuh patung yang sederhana namun monumental menggambarkan sosok pahlawan kontemporer yang tetap tangguh dalam menghadapi ketidakpastian dan bahaya zaman sekarang.",
-"price": "Rp 2.000.000.000"
-},
-{
-"id": 10,
-"title": "The Red Armchair",
-"image": "https://www.artic.edu/iiif/2/c617e2f0-d5fe-0772-390e-6d8c83895815/full/843,/0/default.jpg",
-"artist": "Pablo Picasso",
-"years": "Spanish, active France, 1881-1973",
-"style": "Abstract / Contemporary",
-"desc": "Representasi simbolis pohon oak dalam warna-warna bold dan bentuk geometris.",
-"price": "Rp 550.000.000.000"
-},
-{
-"id": 11,
-"title": "Head of a Woman (Fernande)",
-"image": "https://www.artic.edu/iiif/2/b8a75427-6434-8c35-9b2f-af6e126569d2/full/843,/0/default.jpg",
-"artist": "Pablo Picasso",
-"years": "1909",
-"style": "Proto-Cubism / Early Cubism",
-"desc": "Head of a Woman (Fernande) adalah patung perunggu yang menggambarkan Fernande Olivier, kekasih Picasso pada saat itu. Meskipun berjudul “Head of a Woman”, bentuknya sangat terdistorsi dengan elemen wajah yang disederhanakan menjadi volume geometris. Patung ini mencerminkan transisi Picasso dari realisme menuju gaya kubisme yang lebih analitis. Dengan tekstur kasar dan sudut tajam, karya ini merevolusi representasi bentuk manusia dalam seni pahat modern.",
-"price": "Rp 1.100.000.000"
-},
-{
-"id": 12,
-"title": "Virgin and Child with the Young Saint John the BaptistDate",
-"image": "https://www.artic.edu/iiif/2/d63b9402-c42b-cce3-aa63-6d213ad621cd/full/1686,/0/default.jpg",
-"artist": "Correggio",
-"years": "c. 1515",
-"style": "High Renaissance",
-"desc": "Karya ini menggambarkan Madonna menyusui bayi Yesus sambil diperhatikan oleh Yohanes Pembaptis muda. Lukisan ini menunjukkan kasih sayang ibu-anak yang intim, dalam gaya lembut dan mempesona. Warna-warna hangat dan pencahayaan lembut menciptakan kedalaman emosional. Posisi tubuh para tokoh menciptakan bentuk spiral yang khas dalam karya Correggio, menambah kesan keindahan naturalistik dan gerakan yang hidup.",
-"price": "Rp 1.200.000.000"
-},
-{
-"id": 13,
-"title": "Judith",
-"image": "https://www.artic.edu/iiif/2/5b9758c9-24ef-8661-fac0-c9a4229eefd4/full/1686,/0/default.jpg",
-"artist": "Jan Sanders van Hemessen",
-"years": "c. 1540",
-"style": "Northern Renaissance / Mannerism",
-"desc": "Karya Judith menggambarkan kisah biblis Judith yang memenggal kepala Holofernes, seorang jenderal Asyur, demi menyelamatkan bangsanya. Dalam interpretasi van Hemessen, Judith digambarkan sebagai perempuan kuat dan penuh tekad, dengan ekspresi wajah tenang namun tegas, sambil memegang kepala Holofernes. Latar lukisan sering kali gelap, menciptakan kontras dramatis yang menyoroti figur utama secara emosional dan spiritual.Judith dalam karya ini bukan hanya lambang keberanian religius, tapi juga gambaran kekuatan moral seorang wanita dalam menghadapi tirani.",
-"price": "Rp 1.400.000.000"
-},
-{
-"id": 14,
-"title": "Caribs Leap/Western Deep",
-"image": "https://www.artic.edu/iiif/2/a52c0c03-9668-ae2b-d780-dc928a9d16c1/full/843,/0/default.jpg",
-"artist": "Steve McQueen",
-"years": "2002",
-"style": "Video Art / Conceptual Art / Experimental Film",
-"desc": "Caribs Leap: Mengacu pada legenda kolonial di Saint Lucia, tempat orang Karibia asli melompat dari tebing untuk menghindari perbudakan oleh penjajah Prancis. McQueen menyajikan rekaman puitis dan lambat dari tubuh-tubuh yang jatuh melalui langit, membangkitkan refleksi spiritual tentang kematian, kemerdekaan, dan pengorbanan.Western Deep: Menggambarkan kondisi kerja buruh tambang emas di TauTona Mine di Afrika Selatan—tambang terdalam di dunia. Ini adalah pengalaman sinematik yang sangat gelap, penuh suara mesin, gerakan lambat, dan visual terbatas, menciptakan perasaan claustrophobia dan keterasingan. McQueen menyampaikan kritik terhadap eksploitasi tenaga kerja dan warisan kolonialisme ekonomi.",
-"price": "Rp 1.050.000.000"
-},
-{
-"id": 15,
-"title": "Candida and Her Mother, Celia, II",
-"image": "https://www.artic.edu/iiif/2/5a129642-4a4c-f567-4658-7640fe75fcda/full/843,/0/default.jpg",
-"artist": "Dawoud Bey",
-"years": "1994",
-"style": "Portraiture / Psychological Collage Photography",
-"desc": "Dibuat pada tahun 1994, Candida and Her Mother, Celia, II menampilkan hubungan intim antara seorang ibu dan anak dalam enam panel foto. Panel‑panel tersebut menggambarkan wajah dan tangan ibu serta anak bersama-sama, serta momen ketika keduanya menatap balik ke kamera, membangun dialog tersirat antara pencipta dan subjek. Melalui komposisi grid, Bey merajut tempat bergerak antara waktu, memori, dan identitas keluarga—sebuah kuil kecil yang memisahkan mereka dari kompleksitas sejarah dan ketidakpastian zaman.",
-"price": "Rp 1.300.000.000"
-},
-{
-"id": 16,
-"title": "Female Caryatid Drum (Pinge)",
-"image": "https://www.artic.edu/iiif/2/f305060c-3cd8-e9d4-1009-7e8d4ce1625f/full/843,/0/default.jpg",
-"artist": "SenufoCôte dIvoire",
-"years": "c. 1930-c. 1950",
-"style": "African Traditional Sculpture / Caryatid Symbolic Art",
-"desc": "Drum ini diukir dari batang kayu tunggal dan menampilkan figur wanita duduk dengan drum di atas kepala, menghormati posisi tertinggi perempuan dalam masyarakat Senufo—sebagai pendiri keluarga dan mediator spiritual. Drum dipenuhi ukiran relief yang menggambarkan manusia, hewan, dan simbol ritual seperti ular, prajurit, dan tokek—simbol pengetahuan, kekuatan, dan divinasi [[turn0search12]][[turn0search1]]. Karya ini kemungkinan digunakan dalam upacara pemakaman oleh kelompok wanita ritual Sandogo dan Tyekpa. Selain nilai estetika, drum ini menyampaikan pentingnya peran perempuan dalam menjaga spiritualitas dan kohesi sosial",
-"price": "Rp 1.250.000.000"
-},
-{
-"id": 17,
-"title": "Minnie",
-"image": "https://www.artic.edu/iiif/2/b4adaaf1-81ec-755d-a5df-15c85b63a86c/full/843,/0/default.jpg",
-"artist": "Ed Paschke",
-"years": "1974",
-"style": "Contemporary Indigenous Australian Art / Gestural Abstractionism",
-"desc": "Minnie Pwerle memulai karir melukis di usia lanjut, sekitar usia 80-an, namun menghasilkan karya yang memukau hingga kematiannya pada tahun 2006. Lukisan “Minnie” (jika itu judul sebenarnya atau karya representatifnya) kemungkinan menampilkan pola garis melingkar berwarna cerah yang mengekspresikan simbol Dreaming perempuan dari komunitas Utopia. Gaya ini memancarkan energi ritual, gerak tubuh, dan koneksi dengan tanah.Kekuatan visual terletak pada tekstur cair dan simbolisme lokal—sebuah estetika abstrak yang mencerminkan siklus alam dan ritus budaya tradisional. Karya-karya Minnie sangat dihargai oleh kolektor dan museum di Australia karena nilai budaya dan artistiknya",
-"price": "Rp 1.400.000.000"
-},
-{
-"id": 18,
-"title": "Head of a Luohan",
-"image": "https://www.artic.edu/iiif/2/214ac436-6535-8de0-b77d-c2e5406df956/full/1686,/0/default.jpg",
-"artist": "Song, Liao,",
-"years": "dynasty, c. 11th century",
-"style": "Religious Iconography",
-"desc": "Patung kepala Luohan ini berasal dari abad ke-11, dibuat dengan teknik dry lacque—lapisan kain getah di atas cetakan inti tanah liat, diukir dengan wajah ekspresif, dan dilengkapi manik-manik kecil sebagai mata untuk menambah intensitas spiritual. Wajahnya menampilkan dahi tinggi, pipi menonjol, dan bibir tipis; meskipun lapisan cat dan emas telah terkelupas, ekspresi tenang dan mendalam tetap tersisa, memancarkan ketenangan seorang figur pencerahan. Karya ini mencerminkan penghormatan terhadap karakter religius dan sejarah Buddhis China dari masa awal renaisans penciptaan seni keagamaan",
-"price": "Rp 850.000.000"
-},
-{
-"id": 19,
-"title": "The Actor Otani Hiroji III as Kawazu no Saburo in the Play Myoto-giku Izu no Kisewata, Performed at the Ichimura Theater in the Eleventh Month, 1770",
-"image": "https://www.artic.edu/iiif/2/154292ca-b195-89b4-21f2-3d817307dc24/full/843,/0/default.jpg",
-"artist": "Katsukawa Shunso",
-"years": "c. 1770",
-"style": "Ukiyo-e / Kabuki Portraiture / Hosoban Format",
-"desc": "Lukisan ini menggambarkan kabuki actor Otani Hiroji III memerankan karakter Kawazu no Saburo dalam pertunjukan Myoto-giku Izu no Kisewata di Ichimura Theater sekitar tahun 1770. Dalam komposisinya, biasanya juga menampilkan gambar bersama aktor lain seperti Segawa Kikunojo II dan Nakamura Sukegoro II. Kostumnya—kimono hijau muda yang tertata rapi—mengindikasikan simbol status karakter dan acaranya. Cetakan ini menyiratkan sensualitas teatrikal dan estetika Edo period kabuki yang penuh warna dan ornamen dramatis Heritage Print+14",
-"price": "Rp 750.000.000"
-},
-{
-"id": 20,
-"title": "Young Spartan Girls Challenging Boys",
-"image": "https://www.artic.edu/iiif/2/ca2932b4-6c0c-5482-2ae5-8b74926d7b73/full/1686,/0/default.jpg",
-"artist": "Edgar Degas",
-"years": "c. 1860",
-"style": "Neoclassicism transitioning to Impressionism",
-"desc": "Lukisan ini diperlihatkan sebagai studi eksploratif mengenai pelatihan fisik remaja Sparta: lima gadis muda yang menantang lima pemuda melalui gerakan atletik seperti bergulat, melompat, dan berlari. Susunan gadis di kiri dan laki-laki di kanan menimbulkan ketegangan visual dan naratif, sementara sekelompok wanita—termasuk Lycurgus—mengawasi dari belakang. Kota Sparta dan Gunung Taygetus terlihat di latar, menciptakan kontras antara kehidupan sosial dan mitologi klasik. Lukisan ini tidak pernah diselesaikan oleh Degas walaupun sering dikaji dalam seni akademik abad ke-19.",
-"price": "Rp 600.000.000"
-},
-{
-"id": 21,
-"title": "Nude under a Pine Tree",
-"image": "https://www.artic.edu/iiif/2/b7b7ecd0-5a50-b89a-c72a-d435a1957c73/full/843,/0/default.jpg",
-"artist": "Pablo Picasso",
-"years": "January 20, 1959",
-"style": "Cubism / Surrealism (Late Period)",
-"desc": "Painted on January 20, 1959, karya ini menampilkan sosok perempuan telanjang yang berbaring di bawah pohon pinus di lanskap berbatu. Picasso memadukan bentuk cubist dan elemen naturalistik—seperti siluet pohon, potongan batu, dan kulit manusia yang dipecah oleh warna bumi dan hijau lembut.Plot visual menciptakan dialog antara figur dan lingkungan, menyiratkan refleksi Picasso tentang hubungan antara tubuh manusia dan alam pasca-perang Eropa. Gaya ini mencerminkan sintesis between analytic cubism dan figur klasik Picasso dari 1920-an.",
-"price": "Rp 1.000.000.000"
-},
-{
-"id": 22,
-"title": "A Mexican Vaquero",
-"image": "https://www.artic.edu/iiif/2/005f82e8-fe78-0395-c03f-894a246fb922/full/843,/0/default.jpg",
-"artist": "Frederic Remington",
-"years": "1890",
-"style": "Western Realism / American Old West Painting",
-"desc": "Karya dilukis setelah pengalaman Remington ke Meksiko pada tahun 1889, menggambarkan vaquero (penunggang kuda gaya Meksiko) dengan pose gagah di atas kudanya, setengah torso-nya terlihat di atas garis horizon langit pucat dan gurun. Tatapan langsung dan tangan menggenggam tali kendali menunjukkan statusnya sebagai figur yang menjadi bagian tak terpisahkan dari lanskap wilayah tersebut. Remington juga membuat ukiran kayu berdasarkan lukisan ini, yang dimuat di Harper’s Monthly pada tahun 1891 ",
-"price": "Rp 850.000.000"
-},
-{
-"id": 23,
-"title": "The Scream",
-"image": "https://www.artic.edu/iiif/2/3b374643-5328-3e00-c02b-5ab56e5ae8f8/full/1686,/0/default.jpg",
-"artist": "Edvard Munch",
-"years": "1895",
-"style": "Expressionism",
-"desc": "menggambarkan sosok berlumuran kecemasan dengan tangan menekan kepala, berdiri di atas jembatan dengan latar langit merah darah dan warna air bergelombang. Munch menciptakan karya ini sebagai gambaran internal dari kecemasan manusia modern.",
-"price": "Rp 750.000.000"
-},
-{
-"id": 24,
-"title": "Bust of Saïd Abdullah of the Darfour People",
-"image": "https://www.artic.edu/artworks/18751/bust-of-said-abdullah-of-the-darfour-people",
-"artist": "Charles-Henri-Joseph Cordier",
-"years": "1848",
-"style": "Orientalist Sculpture / Ethnographic Realism",
-"desc": "ini menggambarkan Saïd Abdullah, seorang pria Sudan yang pernah menjadi budak, kemudian berjalan ke Paris dan menjadi model bagi Cordier. Patung perunggu ini menggambarkan wajahnya dengan ekspresi tenang namun kuat—kulit halus, mata tajam, dan raut wajah yang penuh kehormatan. Dibuat di Paris, patung ini dipamerkan pertama kali sebagai model etnografis pada Salon Paris 1848. Cordier menyatakan karya ini sebagai sikap estetis melawan rasisme",
-"price": "Rp 500.000.000.000"
-},
-{
-"id": 25,
-"title": "Madame François Buron",
-"image": "https://www.artic.edu/iiif/2/77f1c8e3-16c6-1147-f4aa-4cfc8bd3eb8b/full/1686,/0/default.jpg",
-"artist": "Jacques-Louis David ",
-"years": "1769",
-"style": "Neoclassicism / Early Portraiture",
-"desc": "Madame François Buron dibuat pada tahun 1769, menggambarkan Maria‑Josèphe Fromont, bibi pendukung David dalam tahap awal kariernya. Ia digambarkan sedang membaca sambil mengangkat tangannya ke dahinya—seolah terganggu oleh cahaya atau sebuah pemikiran yang mendalam. Sorotannya hangat dan penuh rasa terima kasih, menandakan hubungan emosional yang kuat antara artis dan subjek. Komposisinya menciptakan keseimbangan harmoni antara simetri model dan kontras latar belakang gelap, menonjolkan wajah dan tangan yang jernih serta detail pakaian seperti pita, pola brokat, dan topi kecil yang mewah",
-"price": "Rp 800.000.000"
-},
-{
-"id": 26,
-"title": "Rip Van Winkle",
-"image": "https://www.artic.edu/iiif/2/c1f5d7ea-65f6-0ac6-d22f-549d27cfdd38/full/1686,/0/default.jpg",
-"artist": "John Quidor",
-"years": "1829",
-"style": "American Romanticism / Literary History Painting",
-"desc": "Lukisan ini menggambarkan saat Rip Van Winkle terbangun setelah tidur selama dua puluh tahun—dikelilingi oleh penduduk desa yang tidak mengenali dirinya. Rip berdiri tegak dengan ekspresi kuat, menuduh anak dan cucunya, simbolisasi pergeseran zaman di Amerika pasca Revolusi. Quidor memilih momen ini karena dramanya yang tinggi: ketegangan antara kepemilikan identitas dan alienasi dalam dunia baru. Komposisi juga menunjukkan pelukisan realistis dengan nuansa romantik—latar desa, manusia penuh ekspresi, dan simbol-simbol emosi transisi zaman ",
-"price": "Rp 650.000.000"
-},
-{
-"id": 27,
-"title": "Ice (2)",
-"image": "https://www.artic.edu/iiif/2/07783936-58fb-859d-9350-fb600510177a/full/843,/0/default.jpg",
-"artist": "Gerhard Richter",
-"years": "1989",
-"style": "Abstract / Post-modern Abstraction",
-"desc": "Ice (2) merupakan lukisan abstrak oil on canvas ukuran besar (sekitar 203 × 162 cm) yang menampilkan lapisan abu‑kelabu lembut, garis longsor keputihan, dan semburat warna pastel lembut lainnya. Komposisinya menciptakan nuansa dingin dan melankolis seperti kabut beku atau permukaan es retak, menggambarkan kondisi permukaan beku sekaligus efek visual atmosferik. Terletak di Modern Wing Art Institute of Chicago, karya ini menyampaikan dialog antara abstraksi minimal dan impresi cuaca dingin urban serta refleksi kota di gelapnya kaca dan struktur museum",
-"price": "Rp 420.000.000"
-},
-{
-"id": 28,
-"title": "Chez Mondrian",
-"image": "https://www.artic.edu/iiif/2/b9b5634c-ea62-ba9c-2d26-9b6c0f916051/full/843,/0/default.jpg",
-"artist": "André Kertész",
-"years": "1926",
-"style": "Modernist Photography / Portrait of Studio / Architectural Symmetry",
-"desc": "Pada tahun 1926, setelah pindah ke Paris, André Kertész mengunjungi studio Piet Mondrian dan secara intuitif menangkap esensi ruang minimalis itu dalam foto ini. Studio yang teratur—dengan topi jerami di gantungan, vas berbunga putih (berdaun hijau yang dilukis putih oleh Mondrian), dan tangga sederhana—menjadi panggung visual bagi dialog antara seni fotografi modern dan prinsip De Stijl.Foto ini menjadi salah satu karya paling terkenal Kertész, menggabungkan geometris dan humanisme dalam narasi visual halus yang memuliakan estetika Mondrian.",
-"price": "Rp 580.000.000"
-},
-{
-"id": 29,
-"title": "River Stour, Suffolk",
-"image": "https://www.artic.edu/iiif/2/6e0b42d7-da32-bdca-7853-516ccd96d57c/full/1686,/0/default.jpg",
-"artist": "David Lucas",
-"years": "1830, published 1831",
-"style": "British Romantic Landscape Print / Mezzotint after Constable",
-"desc": "diterbitkan sekitar tahun 1830-1831, berupa cetakan mezzotint kecil (ukuran gambar sekitar 14.4 × 12.2 cm) yang menangkap lanskap khas daerah Constable Country—tepi Sungai Stour di Suffolk. Pemandangan ini dipenuhi perahu kecil, jembatan kayu, serta latar pedesaan Dedham. Cetakan menghidupkan atmosfer karya asli Constable, memberikan nuansa romantik alam Inggris awal abad ke-19 melalui kesan cahaya dan bayangan yang halus. Cetakan saat ini berstatus Off View dalam koleksi museum AIC",
-"price": "Rp 480.000.000"
-},
-{
-"id": 30,
-"title": "Eviscerated Corpse",
-"image": "https://www.artic.edu/iiif/2/93e5ef51-348c-bde4-f0f7-7431809fef0e/full/843,/0/default.jpg",
-"artist": "Mike Kelley",
-"years": "1989",
-"style": "Contemporary Sculpture / Found Objects / Conceptual Art",
-"desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
-"price": "Rp 1.200.000.000"
-}
+    "data" : [
+  {
+    "id": 1,
+    "title": "Hercules and the Lernaean Hydra",
+    "image": "https://www.artic.edu/iiif/2/2ae64c8a-266d-470a-a25a-c83127564636/full/843,/0/default.jpg",
+    "artist": "Gustave Moreau",
+    "years": "French, 1826-1898",
+    "style": "Symbolism / Romanticism",
+    "desc": "Perjuangan Hercules melawan Hydra sebagai simbol ketekunan dan keberanian dalam mitologi Yunani.",
+    "price": "Rp 1.000.000.000"
+  },
+  {
+    "id": 2,
+    "title": "The Old Guitarist",
+    "image": "https://www.artic.edu/iiif/2/4e7f3081-179a-af18-8abd-7908a7ae8c4e/full/843,/0/default.jpg",
+    "artist": "Pablo Picasso",
+    "years": "1901-1904",
+    "style": " Ekspresionisme",
+    "desc": "The Old Guitarist adalah salah satu lukisan paling ikonik dari Pablo Picasso, yang diciptakan pada masa Blue Period (1901–1904). Lukisan ini menggambarkan seorang pria tua yang kurus, duduk dalam posisi melengkung sambil memeluk gitar. Warna-warna biru monokromatik yang mendominasi lukisan ini mencerminkan suasana melankolis dan penderitaan emosional yang mendalam, baik dari subjek maupun sang seniman sendiri.",
+    "price": "Rp 2.000.000.000.000"
+  },
+  {
+    "id": 3,
+    "title": "The Basket of Apples",
+    "image": "https://www.artic.edu/iiif/2/52ac8996-3460-cf71-cb42-5c4d0aa29b74/full/1686,/0/default.jpg",
+    "artist": "Paul Cezanne",
+    "years": "French, 1839-1906",
+    "style": "Post-Impressionism / Still Life",
+    "desc": "Lukisan ini menggambarkan sekumpulan apel yang tampak tidak seimbang dalam keranjang di atas meja, ditemani sebotol anggur dan roti. Komposisi ini tampak “salah” secara perspektif, namun disengaja oleh Cézanne untuk mengeksplorasi bentuk dan ruang. Ia menentang aturan perspektif tradisional, menciptakan harmoni visual melalui bentuk geometris dan warna. Karya ini menjadi tonggak penting dalam sejarah seni modern.",
+    "price": "Rp 1.600.000.000.000"
+  },
+  {
+    "id": 4,
+    "title": "Weaving",
+    "image": "https://www.artic.edu/iiif/2/96e26f4f-c578-b14c-2714-2a565f19e0d0/full/843,/0/default.jpg",
+    "artist": "Diego Rivera",
+    "years": "1936",
+    "style": "Mexican Muralism / Social Realism / Modernism",
+    "desc": "Diego Rivera adalah pelukis revolusioner yang menggunakan seninya untuk menggambarkan realitas sosial dan sejarah Meksiko. Dalam banyak karyanya, termasuk Weaving, ia menampilkan kehidupan rakyat biasa—buruh tani, pekerja tekstil, dan komunitas adat—dalam adegan yang sarat makna sosial dan politik. Karya Weaving secara spesifik menyoroti para penenun perempuan dan peran penting perempuan dalam ekonomi lokal. Rivera menggambarkan mereka dengan kekuatan dan martabat, dalam komposisi yang simetris dan penuh warna.",
+    "price": "Rp 80.000.000.000"
+  },
+  {
+    "id": 5,
+    "title": "The Rock",
+    "image": "https://www.artic.edu/iiif/2/2843f22e-8ef1-2cd5-b53e-6712cd664e9a/full/843,/0/default.jpg",
+    "artist": "Peter Blume",
+    "years": "1944-48",
+    "style": "American Modernism / Surrealist-Realist Allegory",
+    "desc": "Peter Blume menciptakan The Rock antara tahun 1944-1948 sebagai lukisan komisi untuk keluarga Kaufmann (pemilik rumah Fallingwater oleh Frank Lloyd Wright). Karya ini menggambarkan formasi batu besar yang pecah namun bertahan, dikelilingi sisa reruntuhan, asap, serta pekerja yang membangun kembali dunia baru. Di sisi kanan, asap mengepul dari puing-puing—mengingatkan pengeboman di London saat Perang—sementara di kiri, sebuah bangunan baru berdiri dengan kerangka bangunan dan pekerja yang mengangkut material. Lukisan ini dianggap sebagai alegori harapan dan rekonstruksi pascaperang, simbol ketahanan dan imajinasi manusia di tengah kehancuran dan ketidakpastian ",
+    "price": "Rp 320.000.000.000"
+  },
+  {
+    "id": 6,
+    "title": "Venus de Milo with Drawers",
+    "image": "https://www.artic.edu/iiif/2/678c7a7a-b8c7-2857-7b97-f3c3501b8b1c/full/843,/0/default.jpg",
+    "artist": "Salvador Dalí",
+    "years": "1936",
+    "style": "Surrealism / Surrealist Object / Assemblage",
+    "desc": "Venus de Milo with Drawers adalah patung plester eksperimental yang dibuat oleh Salvador Dalí pada tahun 1936, mengambil referensi dari patung Yunani kuno Venus de Milo. Dalam interpretasi surreal-nya, Dalí menempatkan enam laci tersembunyi di kepala, dada, perut, dan kaki patung — lengkap dengan kenop berpompom bulu.Menurut Dalí, laci-laci ini melambangkan rahasia batin manusia yang hanya bisa diakses melalui psikoterapi, serta mencerminkan dualitas antara bentuk ideal klasik dan kompleksitas bawah sadar modern. Patung ini mencerminkan obsesi Dalí terhadap psikoanalisis dan dream imagery, serta menunjukkan bagaimana objek biasa bisa diberi makna simbolik melalui transformasi artistik..",
+    "price": "Rp 48.000.000.000"
+  },
+  {
+    "id": 7,
+    "title": "A Young Lady with a Parrot",
+    "image": "https://www.artic.edu/iiif/2/2d9fb8b5-b9a3-3e41-270e-3c480f7b317b/full/1686,/0/default.jpg",
+    "artist": "Rosalba Carriera",
+    "years": "c. 1730",
+    "style": "Rococo / Pastel Portraiture",
+    "desc": "A Young Lady with a Parrot dibuat sekitar tahun 1730 dengan media pastel di atas kertas biru, mounted pada papan berlapis. Lukisan ini menampilkan seorang wanita muda berpakaian anggun khas Rococo — gaun biru lembut, renda tipis, pita, dan kerudung transparan. Di tangannya, seekor burung nuri kecil menambahkan sentuhan eksotik dan simbolis. Carriera dengan cermat memperlihatkan tekstur kain, kilau mutiara, dan kesan sensual yang lembut namun penuh kendali. Warna parrot yang cerah menciptakan kontras yang menarik terhadap nuansa pastel lembut lainnya, sementara tatapan langsung sang model memberikan aura seduksi terkontrol — mencerminkan elegansi dan kecerdasan visual Rococo. Karya ini sering dianggap sebagai karya penting dalam portofolio Carriera dan awal popularitas pastel dalam potret aristokrat Eropa",
+    "price": "Rp 650.000.000.000"
+  },
+  {
+    "id": 8,
+    "title": "The Watermill with the Great Red Roof",
+    "image": "https://www.artic.edu/iiif/2/237c25a2-6051-a8e7-1610-a01938d4deab/full/1686,/0/default.jpg",
+    "artist": "Meindert Hobbema",
+    "years": "c. 1665",
+    "style": "Dutch Baroque Landscape",
+    "desc": "Lukisan ini menggambarkan suasana tenang pedesaan dengan kincir air besar yang atapnya berwarna merah menyala, berdiri di antara pepohonan rindang dan aliran sungai yang mengalir perlahan. Karya ini menunjukkan keterampilan Hobbema dalam menangkap tekstur alam dan permainan cahaya, menciptakan kesan damai dan harmoni antara manusia dan lingkungannya. Detail arsitektur bangunan, refleksi air, serta perspektif ruang yang dalam menjadi ciri khas karya ini.",
+    "price": "Rp 80.000.000.000"
+  },
+  {
+    "id": 9,
+    "title": "Hero Construction",
+    "image": "https://www.artic.edu/iiif/2/62f2ca7a-8c22-bb7e-9e3d-7453652a3350/full/843,/0/default.jpg",
+    "artist": "Richard Hunt",
+    "years": "United States (Artist's nationality:), 1958",
+    "style": "Modernisme Abstrak",
+    "desc": "Richard Hunt menciptakan Hero Construction pada tahun 1958, satu tahun setelah lulus dari School of the Art Institute of Chicago. Patung ini terdiri dari benda-benda bekas—pipa tua, potongan logam, dan bagian-bagian mobil—yang ia temukan di tempat rongsokan dan jalanan. Dengan menggunakan alat las seperti kuas lukis, Hunt menyatukan elemen-elemen ini menjadi sebuah bentuk yang abstrak namun tetap dapat dikenali. Hunt sangat tertarik dengan mitologi, dan Hero Construction memiliki keterkaitan dengan patung-patung pahlawan dari masa lalu dan masa kini, mulai dari patung Yunani kuno hingga monumen modern untuk tokoh-tokoh kenegaraan. Posisi tubuh patung yang sederhana namun monumental menggambarkan sosok pahlawan kontemporer yang tetap tangguh dalam menghadapi ketidakpastian dan bahaya zaman sekarang.",
+    "price": "Rp 2.000.000.000"
+  },
+  {
+    "id": 10,
+    "title": "The Red Armchair",
+    "image": "https://www.artic.edu/iiif/2/c617e2f0-d5fe-0772-390e-6d8c83895815/full/843,/0/default.jpg",
+    "artist": "Pablo Picasso",
+    "years": "Spanish, active France, 1881-1973",
+    "style": "Abstract / Contemporary",
+    "desc": "Representasi simbolis pohon oak dalam warna-warna bold dan bentuk geometris.",
+    "price": "Rp 550.000.000.000"
+  },
+  {
+    "id": 11,
+    "title": "Head of a Woman (Fernande)",
+    "image": "https://www.artic.edu/iiif/2/b8a75427-6434-8c35-9b2f-af6e126569d2/full/843,/0/default.jpg",
+    "artist": "Pablo Picasso",
+    "years": "1909",
+    "style": "Proto-Cubism / Early Cubism",
+    "desc": "Head of a Woman (Fernande) adalah patung perunggu yang menggambarkan Fernande Olivier, kekasih Picasso pada saat itu. Meskipun berjudul “Head of a Woman”, bentuknya sangat terdistorsi dengan elemen wajah yang disederhanakan menjadi volume geometris. Patung ini mencerminkan transisi Picasso dari realisme menuju gaya kubisme yang lebih analitis. Dengan tekstur kasar dan sudut tajam, karya ini merevolusi representasi bentuk manusia dalam seni pahat modern.",
+    "price": "Rp 1.100.000.000"
+  },
+  {
+    "id": 12,
+    "title": "Virgin and Child with the Young Saint John the BaptistDate",
+    "image": "https://www.artic.edu/iiif/2/d63b9402-c42b-cce3-aa63-6d213ad621cd/full/1686,/0/default.jpg",
+    "artist": "Correggio",
+    "years": "c. 1515",
+    "style": "High Renaissance",
+    "desc": "Karya ini menggambarkan Madonna menyusui bayi Yesus sambil diperhatikan oleh Yohanes Pembaptis muda. Lukisan ini menunjukkan kasih sayang ibu-anak yang intim, dalam gaya lembut dan mempesona. Warna-warna hangat dan pencahayaan lembut menciptakan kedalaman emosional. Posisi tubuh para tokoh menciptakan bentuk spiral yang khas dalam karya Correggio, menambah kesan keindahan naturalistik dan gerakan yang hidup.",
+    "price": "Rp 1.200.000.000"
+  },
+  {
+    "id": 13,
+    "title": "Judith",
+    "image": "https://www.artic.edu/iiif/2/5b9758c9-24ef-8661-fac0-c9a4229eefd4/full/1686,/0/default.jpg",
+    "artist": "Jan Sanders van Hemessen",
+    "years": "c. 1540",
+    "style": "Northern Renaissance / Mannerism",
+    "desc": "Karya Judith menggambarkan kisah biblis Judith yang memenggal kepala Holofernes, seorang jenderal Asyur, demi menyelamatkan bangsanya. Dalam interpretasi van Hemessen, Judith digambarkan sebagai perempuan kuat dan penuh tekad, dengan ekspresi wajah tenang namun tegas, sambil memegang kepala Holofernes. Latar lukisan sering kali gelap, menciptakan kontras dramatis yang menyoroti figur utama secara emosional dan spiritual.Judith dalam karya ini bukan hanya lambang keberanian religius, tapi juga gambaran kekuatan moral seorang wanita dalam menghadapi tirani.",
+    "price": "Rp 1.400.000.000"
+  },
+  {
+    "id": 14,
+    "title": "Caribs Leap/Western Deep",
+    "image": "https://www.artic.edu/iiif/2/a52c0c03-9668-ae2b-d780-dc928a9d16c1/full/843,/0/default.jpg",
+    "artist": "Steve McQueen",
+    "years": "2002",
+    "style": "Video Art / Conceptual Art / Experimental Film",
+    "desc": "Caribs Leap: Mengacu pada legenda kolonial di Saint Lucia, tempat orang Karibia asli melompat dari tebing untuk menghindari perbudakan oleh penjajah Prancis. McQueen menyajikan rekaman puitis dan lambat dari tubuh-tubuh yang jatuh melalui langit, membangkitkan refleksi spiritual tentang kematian, kemerdekaan, dan pengorbanan.Western Deep: Menggambarkan kondisi kerja buruh tambang emas di TauTona Mine di Afrika Selatan—tambang terdalam di dunia. Ini adalah pengalaman sinematik yang sangat gelap, penuh suara mesin, gerakan lambat, dan visual terbatas, menciptakan perasaan claustrophobia dan keterasingan. McQueen menyampaikan kritik terhadap eksploitasi tenaga kerja dan warisan kolonialisme ekonomi.",
+    "price": "Rp 1.050.000.000"
+  },
+  {
+    "id": 15,
+    "title": "Candida and Her Mother, Celia, II",
+    "image": "https://www.artic.edu/iiif/2/5a129642-4a4c-f567-4658-7640fe75fcda/full/843,/0/default.jpg",
+    "artist": "Dawoud Bey",
+    "years": "1994",
+    "style": "Portraiture / Psychological Collage Photography",
+    "desc": "Dibuat pada tahun 1994, Candida and Her Mother, Celia, II menampilkan hubungan intim antara seorang ibu dan anak dalam enam panel foto. Panel‑panel tersebut menggambarkan wajah dan tangan ibu serta anak bersama-sama, serta momen ketika keduanya menatap balik ke kamera, membangun dialog tersirat antara pencipta dan subjek. Melalui komposisi grid, Bey merajut tempat bergerak antara waktu, memori, dan identitas keluarga—sebuah kuil kecil yang memisahkan mereka dari kompleksitas sejarah dan ketidakpastian zaman.",
+    "price": "Rp 1.300.000.000"
+  },
+  {
+    "id": 16,
+    "title": "Female Caryatid Drum (Pinge)",
+    "image": "https://www.artic.edu/iiif/2/f305060c-3cd8-e9d4-1009-7e8d4ce1625f/full/843,/0/default.jpg",
+    "artist": "SenufoCôte dIvoire",
+    "years": "c. 1930-c. 1950",
+    "style": "African Traditional Sculpture / Caryatid Symbolic Art",
+    "desc": "Drum ini diukir dari batang kayu tunggal dan menampilkan figur wanita duduk dengan drum di atas kepala, menghormati posisi tertinggi perempuan dalam masyarakat Senufo—sebagai pendiri keluarga dan mediator spiritual. Drum dipenuhi ukiran relief yang menggambarkan manusia, hewan, dan simbol ritual seperti ular, prajurit, dan tokek—simbol pengetahuan, kekuatan, dan divinasi [[turn0search12]][[turn0search1]]. Karya ini kemungkinan digunakan dalam upacara pemakaman oleh kelompok wanita ritual Sandogo dan Tyekpa. Selain nilai estetika, drum ini menyampaikan pentingnya peran perempuan dalam menjaga spiritualitas dan kohesi sosial",
+    "price": "Rp 1.250.000.000"
+  },
+  {
+    "id": 17,
+    "title": "Minnie",
+    "image": "https://www.artic.edu/iiif/2/b4adaaf1-81ec-755d-a5df-15c85b63a86c/full/843,/0/default.jpg",
+    "artist": "Ed Paschke",
+    "years": "1974",
+    "style": "Contemporary Indigenous Australian Art / Gestural Abstractionism",
+    "desc": "Minnie Pwerle memulai karir melukis di usia lanjut, sekitar usia 80-an, namun menghasilkan karya yang memukau hingga kematiannya pada tahun 2006. Lukisan “Minnie” (jika itu judul sebenarnya atau karya representatifnya) kemungkinan menampilkan pola garis melingkar berwarna cerah yang mengekspresikan simbol Dreaming perempuan dari komunitas Utopia. Gaya ini memancarkan energi ritual, gerak tubuh, dan koneksi dengan tanah.Kekuatan visual terletak pada tekstur cair dan simbolisme lokal—sebuah estetika abstrak yang mencerminkan siklus alam dan ritus budaya tradisional. Karya-karya Minnie sangat dihargai oleh kolektor dan museum di Australia karena nilai budaya dan artistiknya",
+    "price": "Rp 1.400.000.000"
+  },
+  {
+    "id": 18,
+    "title": "Head of a Luohan",
+    "image": "https://www.artic.edu/iiif/2/214ac436-6535-8de0-b77d-c2e5406df956/full/1686,/0/default.jpg",
+    "artist": "Song, Liao,",
+    "years": "dynasty, c. 11th century",
+    "style": "Religious Iconography",
+    "desc": "Patung kepala Luohan ini berasal dari abad ke-11, dibuat dengan teknik dry lacque—lapisan kain getah di atas cetakan inti tanah liat, diukir dengan wajah ekspresif, dan dilengkapi manik-manik kecil sebagai mata untuk menambah intensitas spiritual. Wajahnya menampilkan dahi tinggi, pipi menonjol, dan bibir tipis; meskipun lapisan cat dan emas telah terkelupas, ekspresi tenang dan mendalam tetap tersisa, memancarkan ketenangan seorang figur pencerahan. Karya ini mencerminkan penghormatan terhadap karakter religius dan sejarah Buddhis China dari masa awal renaisans penciptaan seni keagamaan",
+    "price": "Rp 850.000.000"
+  },
+  {
+    "id": 19,
+    "title": "The Actor Otani Hiroji III as Kawazu no Saburo in the Play Myoto-giku Izu no Kisewata, Performed at the Ichimura Theater in the Eleventh Month, 1770",
+    "image": "https://www.artic.edu/iiif/2/154292ca-b195-89b4-21f2-3d817307dc24/full/843,/0/default.jpg",
+    "artist": "Katsukawa Shunso",
+    "years": "c. 1770",
+    "style": "Ukiyo-e / Kabuki Portraiture / Hosoban Format",
+    "desc": "Lukisan ini menggambarkan kabuki actor Otani Hiroji III memerankan karakter Kawazu no Saburo dalam pertunjukan Myoto-giku Izu no Kisewata di Ichimura Theater sekitar tahun 1770. Dalam komposisinya, biasanya juga menampilkan gambar bersama aktor lain seperti Segawa Kikunojo II dan Nakamura Sukegoro II. Kostumnya—kimono hijau muda yang tertata rapi—mengindikasikan simbol status karakter dan acaranya. Cetakan ini menyiratkan sensualitas teatrikal dan estetika Edo period kabuki yang penuh warna dan ornamen dramatis Heritage Print+14",
+    "price": "Rp 750.000.000"
+  },
+  {
+    "id": 20,
+    "title": "Young Spartan Girls Challenging Boys",
+    "image": "https://www.artic.edu/iiif/2/ca2932b4-6c0c-5482-2ae5-8b74926d7b73/full/1686,/0/default.jpg",
+    "artist": "Edgar Degas",
+    "years": "c. 1860",
+    "style": "Neoclassicism transitioning to Impressionism",
+    "desc": "Lukisan ini diperlihatkan sebagai studi eksploratif mengenai pelatihan fisik remaja Sparta: lima gadis muda yang menantang lima pemuda melalui gerakan atletik seperti bergulat, melompat, dan berlari. Susunan gadis di kiri dan laki-laki di kanan menimbulkan ketegangan visual dan naratif, sementara sekelompok wanita—termasuk Lycurgus—mengawasi dari belakang. Kota Sparta dan Gunung Taygetus terlihat di latar, menciptakan kontras antara kehidupan sosial dan mitologi klasik. Lukisan ini tidak pernah diselesaikan oleh Degas walaupun sering dikaji dalam seni akademik abad ke-19.",
+    "price": "Rp 600.000.000"
+  },
+  {
+    "id": 21,
+    "title": "Nude under a Pine Tree",
+    "image": "https://www.artic.edu/iiif/2/b7b7ecd0-5a50-b89a-c72a-d435a1957c73/full/843,/0/default.jpg",
+    "artist": "Pablo Picasso",
+    "years": "January 20, 1959",
+    "style": "Cubism / Surrealism (Late Period)",
+    "desc": "Painted on January 20, 1959, karya ini menampilkan sosok perempuan telanjang yang berbaring di bawah pohon pinus di lanskap berbatu. Picasso memadukan bentuk cubist dan elemen naturalistik—seperti siluet pohon, potongan batu, dan kulit manusia yang dipecah oleh warna bumi dan hijau lembut.Plot visual menciptakan dialog antara figur dan lingkungan, menyiratkan refleksi Picasso tentang hubungan antara tubuh manusia dan alam pasca-perang Eropa. Gaya ini mencerminkan sintesis between analytic cubism dan figur klasik Picasso dari 1920-an.",
+    "price": "Rp 1.000.000.000"
+  },
+  {
+    "id": 22,
+    "title": "A Mexican Vaquero",
+    "image": "https://www.artic.edu/iiif/2/005f82e8-fe78-0395-c03f-894a246fb922/full/843,/0/default.jpg",
+    "artist": "Frederic Remington",
+    "years": "1890",
+    "style": "Western Realism / American Old West Painting",
+    "desc": "Karya dilukis setelah pengalaman Remington ke Meksiko pada tahun 1889, menggambarkan vaquero (penunggang kuda gaya Meksiko) dengan pose gagah di atas kudanya, setengah torso-nya terlihat di atas garis horizon langit pucat dan gurun. Tatapan langsung dan tangan menggenggam tali kendali menunjukkan statusnya sebagai figur yang menjadi bagian tak terpisahkan dari lanskap wilayah tersebut. Remington juga membuat ukiran kayu berdasarkan lukisan ini, yang dimuat di Harper’s Monthly pada tahun 1891 ",
+    "price": "Rp 850.000.000"
+  },
+  {
+    "id": 23,
+    "title": "The Scream",
+    "image": "https://www.artic.edu/iiif/2/3b374643-5328-3e00-c02b-5ab56e5ae8f8/full/1686,/0/default.jpg",
+    "artist": "Edvard Munch",
+    "years": "1895",
+    "style": "Expressionism",
+    "desc": "menggambarkan sosok berlumuran kecemasan dengan tangan menekan kepala, berdiri di atas jembatan dengan latar langit merah darah dan warna air bergelombang. Munch menciptakan karya ini sebagai gambaran internal dari kecemasan manusia modern.",
+    "price": "Rp 750.000.000"
+  },
+  {
+    "id": 24,
+    "title": "Bust of Saïd Abdullah of the Darfour People",
+    "image": "https://www.artic.edu/iiif/2/6a0e3e40-1e36-2109-378f-3fc5d29176b3/full/1686,/0/default.jpg",
+    "artist": "Charles-Henri-Joseph Cordier",
+    "years": "1848",
+    "style": "Orientalist Sculpture / Ethnographic Realism",
+    "desc": "ini menggambarkan Saïd Abdullah, seorang pria Sudan yang pernah menjadi budak, kemudian berjalan ke Paris dan menjadi model bagi Cordier. Patung perunggu ini menggambarkan wajahnya dengan ekspresi tenang namun kuat—kulit halus, mata tajam, dan raut wajah yang penuh kehormatan. Dibuat di Paris, patung ini dipamerkan pertama kali sebagai model etnografis pada Salon Paris 1848. Cordier menyatakan karya ini sebagai sikap estetis melawan rasisme",
+    "price": "Rp 500.000.000.000"
+  },
+  {
+    "id": 25,
+    "title": "Madame François Buron",
+    "image": "https://www.artic.edu/iiif/2/77f1c8e3-16c6-1147-f4aa-4cfc8bd3eb8b/full/1686,/0/default.jpg",
+    "artist": "Jacques-Louis David ",
+    "years": "1769",
+    "style": "Neoclassicism / Early Portraiture",
+    "desc": "Madame François Buron dibuat pada tahun 1769, menggambarkan Maria‑Josèphe Fromont, bibi pendukung David dalam tahap awal kariernya. Ia digambarkan sedang membaca sambil mengangkat tangannya ke dahinya—seolah terganggu oleh cahaya atau sebuah pemikiran yang mendalam. Sorotannya hangat dan penuh rasa terima kasih, menandakan hubungan emosional yang kuat antara artis dan subjek. Komposisinya menciptakan keseimbangan harmoni antara simetri model dan kontras latar belakang gelap, menonjolkan wajah dan tangan yang jernih serta detail pakaian seperti pita, pola brokat, dan topi kecil yang mewah",
+    "price": "Rp 800.000.000"
+  },
+  {
+    "id": 26,
+    "title": "Rip Van Winkle",
+    "image": "https://www.artic.edu/iiif/2/c1f5d7ea-65f6-0ac6-d22f-549d27cfdd38/full/1686,/0/default.jpg",
+    "artist": "John Quidor",
+    "years": "1829",
+    "style": "American Romanticism / Literary History Painting",
+    "desc": "Lukisan ini menggambarkan saat Rip Van Winkle terbangun setelah tidur selama dua puluh tahun—dikelilingi oleh penduduk desa yang tidak mengenali dirinya. Rip berdiri tegak dengan ekspresi kuat, menuduh anak dan cucunya, simbolisasi pergeseran zaman di Amerika pasca Revolusi. Quidor memilih momen ini karena dramanya yang tinggi: ketegangan antara kepemilikan identitas dan alienasi dalam dunia baru. Komposisi juga menunjukkan pelukisan realistis dengan nuansa romantik—latar desa, manusia penuh ekspresi, dan simbol-simbol emosi transisi zaman ",
+    "price": "Rp 650.000.000"
+  },
+  {
+    "id": 27,
+    "title": "Ice (2)",
+    "image": "https://www.artic.edu/iiif/2/07783936-58fb-859d-9350-fb600510177a/full/843,/0/default.jpg",
+    "artist": "Gerhard Richter",
+    "years": "1989",
+    "style": "Abstract / Post-modern Abstraction",
+    "desc": "Ice (2) merupakan lukisan abstrak oil on canvas ukuran besar (sekitar 203 × 162 cm) yang menampilkan lapisan abu‑kelabu lembut, garis longsor keputihan, dan semburat warna pastel lembut lainnya. Komposisinya menciptakan nuansa dingin dan melankolis seperti kabut beku atau permukaan es retak, menggambarkan kondisi permukaan beku sekaligus efek visual atmosferik. Terletak di Modern Wing Art Institute of Chicago, karya ini menyampaikan dialog antara abstraksi minimal dan impresi cuaca dingin urban serta refleksi kota di gelapnya kaca dan struktur museum",
+    "price": "Rp 420.000.000"
+  },
+  {
+    "id": 28,
+    "title": "Chez Mondrian",
+    "image": "https://www.artic.edu/iiif/2/b9b5634c-ea62-ba9c-2d26-9b6c0f916051/full/843,/0/default.jpg",
+    "artist": "André Kertész",
+    "years": "1926",
+    "style": "Modernist Photography / Portrait of Studio / Architectural Symmetry",
+    "desc": "Pada tahun 1926, setelah pindah ke Paris, André Kertész mengunjungi studio Piet Mondrian dan secara intuitif menangkap esensi ruang minimalis itu dalam foto ini. Studio yang teratur—dengan topi jerami di gantungan, vas berbunga putih (berdaun hijau yang dilukis putih oleh Mondrian), dan tangga sederhana—menjadi panggung visual bagi dialog antara seni fotografi modern dan prinsip De Stijl.Foto ini menjadi salah satu karya paling terkenal Kertész, menggabungkan geometris dan humanisme dalam narasi visual halus yang memuliakan estetika Mondrian.",
+    "price": "Rp 580.000.000"
+  },
+  {
+    "id": 29,
+    "title": "River Stour, Suffolk",
+    "image": "https://www.artic.edu/iiif/2/6e0b42d7-da32-bdca-7853-516ccd96d57c/full/1686,/0/default.jpg",
+    "artist": "David Lucas",
+    "years": "1830, published 1831",
+    "style": "British Romantic Landscape Print / Mezzotint after Constable",
+    "desc": "diterbitkan sekitar tahun 1830-1831, berupa cetakan mezzotint kecil (ukuran gambar sekitar 14.4 × 12.2 cm) yang menangkap lanskap khas daerah Constable Country—tepi Sungai Stour di Suffolk. Pemandangan ini dipenuhi perahu kecil, jembatan kayu, serta latar pedesaan Dedham. Cetakan menghidupkan atmosfer karya asli Constable, memberikan nuansa romantik alam Inggris awal abad ke-19 melalui kesan cahaya dan bayangan yang halus. Cetakan saat ini berstatus Off View dalam koleksi museum AIC",
+    "price": "Rp 480.000.000"
+  },
+  {
+    "id": 30,
+    "title": "Eviscerated Corpse",
+    "image": "https://www.artic.edu/iiif/2/93e5ef51-348c-bde4-f0f7-7431809fef0e/full/843,/0/default.jpg",
+    "artist": "Mike Kelley",
+    "years": "1989",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 1.200.000.000"
+  },
+  {
+    "id": 31,
+    "title": "American Gothic",
+    "image": "https://www.artic.edu/iiif/2/b272df73-a965-ac37-4172-be4e99483637/full/843,/0/default.jpg",
+    "artist": "Grant Wood ",
+    "years": "1930",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 1.300.000.000"
+  },
+  {
+    "id": 32,
+    "title": "Mao",
+    "image": "https://www.artic.edu/iiif/2/97cb5c4b-cce5-c4d8-f303-613ce92832c7/full/843,/0/default.jpg",
+    "artist": "Andy Warhol",
+    "years": "1972",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 2.200.000.000"
+  },
+  {
+    "id": 33,
+    "title": "Daniel-Henry Kahnweiler",
+    "image": "https://www.artic.edu/iiif/2/aebda29e-16b8-4393-6edc-805cdb6ba459/full/843,/0/default.jpg",
+    "artist": "Pablo Picasso",
+    "years": "autumn 1910",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 1.700.000.000"
+  },
+  {
+    "id": 34,
+    "title": "Woman at Her Toilette",
+    "image": "https://www.artic.edu/iiif/2/78c80988-6524-cec7-c661-a4c0a706d06f/full/1686,/0/default.jpg",
+    "artist": "Berthe Morisot",
+    "years": "1875–80",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 64.240.000.000"
+  },
+  {
+    "id": 35,
+    "title": "Portrait of Pablo Picasso",
+    "image": "https://www.artic.edu/iiif/2/4f7ccf9f-a8ce-2bd8-2d15-a38b2e6caa7a/full/843,/0/default.jpg",
+    "artist": "Juan Gris",
+    "years": "January–February 1912",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 2.200.000.000"
+  },
+  {
+    "id": 36,
+    "title": "Distant View of Niagara Falls",
+    "image": "https://www.artic.edu/iiif/2/18092196-50ae-3ff1-9205-1b3110e966c3/full/1686,/0/default.jpg",
+    "artist": "Thomas Cole",
+    "years": "1830",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 1.000.000.000"
+  },
+  {
+    "id": 37,
+    "title": "The Bay of Marseille, Seen from L’Estaque",
+    "image": "https://www.artic.edu/iiif/2/d4ca6321-8656-3d3f-a362-2ee297b2b813/full/1686,/0/default.jpg",
+    "artist": "Paul Cezanne",
+    "years": "c. 1885",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 7.200.000.000"
+  },
+  {
+    "id": 38,
+    "title": "Into the World There Came a Soul Called Ida",
+    "image": "https://www.artic.edu/iiif/2/2d43ebe4-89aa-ae2d-6fd6-085bb6b77ee0/full/843,/0/default.jpg",
+    "artist": "Ivan Albright",
+    "years": "1929–30",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 6.200.000.000"
+  },
+  {
+    "id": 39,
+    "title": "E-10: English Dining Room of the Georgian Period, 1770-90",
+    "image": "https://www.artic.edu/iiif/2/416b87c8-515f-0066-5c44-b7562162f2c0/full/1686,/0/default.jpg",
+    "artist": "Designed by Narcissa Niblack Thorne",
+    "years": "c. 1937",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 5.200.000.000"
+  },
+  {
+    "id": 40,
+    "title": "Fishing Boats with Hucksters Bargaining for Fish",
+    "image": "https://www.artic.edu/iiif/2/8641479e-c93e-f1a8-9925-19be061706da/full/1686,/0/default.jpg",
+    "artist": "Joseph Mallord William Turner",
+    "years": "1837–38",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 3.200.000.000"
+  },
+  {
+    "id": 41,
+    "title": "Old Man with a Gold Chain",
+    "image": "https://www.artic.edu/iiif/2/19b70c5d-fc14-79fc-f501-97e3c36ec0b1/full/1686,/0/default.jpg",
+    "artist": "Rembrandt van Rijn",
+    "years": "1631",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 99.200.000.000"
+  },
+  {
+    "id": 42,
+    "title": "The Captive Slave (Ira Aldridge)",
+    "image": "https://www.artic.edu/iiif/2/5490fd49-dd52-4fd7-7d41-d871dcffae55/full/1686,/0/default.jpg",
+    "artist": "John Philip Simpson",
+    "years": "1827",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 78.200.000.000"
+  },
+  {
+    "id": 43,
+    "title": "The Philosopher’s Conquest",
+    "image": "https://www.artic.edu/iiif/2/7398163e-2357-ac74-254a-273907c5c7d1/full/843,/0/default.jpg",
+    "artist": "Giorgio de Chirico",
+    "years": "1913–14",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 6.670.000.000"
+  },
+  {
+    "id": 44,
+    "title": "…And the Home of the Brave",
+    "image": "https://www.artic.edu/iiif/2/04e42e38-be5d-dacf-d627-17b2ca320cbe/full/843,/0/default.jpg",
+    "artist": "Charles Demuth",
+    "years": "1931",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 6.200.000.000"
+  },
+  {
+    "id": 45,
+    "title": "Fish (Still Life)",
+    "image": "https://www.artic.edu/iiif/2/0cbe27e8-2fec-3445-bc48-ce40a8f2dc25/full/1686,/0/default.jpg",
+    "artist": "Édouard Manet",
+    "years": "1864",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 4.200.000.000"
+  },
+  {
+    "id": 46,
+    "title": "Edtaonisl (Ecclesiastic)",
+    "image": "https://www.artic.edu/iiif/2/bc30321e-1e8b-6ccb-e3da-01b01fe598e1/full/843,/0/default.jpg",
+    "artist": "Francis Picabia",
+    "years": "1913",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 1.200.000.000"
+  },
+  {
+    "id": 47,
+    "title": "Human Nature/Life Death",
+    "image": "https://www.artic.edu/iiif/2/7bac3e48-0e65-9d28-1e26-8f7ddb2a8d88/full/843,/0/default.jpg",
+    "artist": "Bruce Nauman",
+    "years": "1983",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 1.000.000.000"
+  },
+  {
+    "id": 48,
+    "title": "Frederick Douglass",
+    "image": "https://www.artic.edu/iiif/2/68597cf9-01aa-7c1f-1179-d4b8811e1c05/full/1686,/0/default.jpg",
+    "artist": "Samuel J. Miller",
+    "years": "1847-52",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 3.400.000.000"
+  },
+  {
+    "id": 49,
+    "title": "Head of a Woman (Fernande)",
+    "image": "https://www.artic.edu/iiif/2/b8a75427-6434-8c35-9b2f-af6e126569d2/full/843,/0/default.jpg",
+    "artist": "Pablo Picasso",
+    "years": "1909",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 3.200.000.000"
+  },
+  {
+    "id": 50,
+    "title": "The Flooded Grave",
+    "image": "https://www.artic.edu/iiif/2/3df4023e-eb91-249b-9aeb-c754cf708252/full/843,/0/default.jpg",
+    "artist": "Jeff Wall",
+    "years": "1998–2000",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 3.670.000.000"
+  },
+  {
+    "id": 51,
+    "title": "The Fountains",
+    "image": "https://www.artic.edu/iiif/2/62fd0e14-d7fe-0d01-ab00-1eed84b4f294/full/1686,/0/default.jpg",
+    "artist": "Hubert Robert (French, 1733-1808)",
+    "years": "1787–88",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 440.000.000"
+  },
+  {
+    "id": 52,
+    "title": "Woman Reading",
+    "image": "https://www.artic.edu/iiif/2/fd991fea-0c13-8444-7879-aba467f1d9db/full/1686,/0/default.jpg",
+    "artist": "Édouard Manet",
+    "years": "1880–82",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 200.000.000"
+  },
+  {
+    "id": 52,
+    "title": "The Titanic",
+    "image": "https://www.artic.edu/iiif/2/03cdd6a7-a043-2ac8-3de0-addd99c0ff88/full/843,/0/default.jpg",
+    "artist": "Stanley Tigerman",
+    "years": "1978",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 4.660.000.000"
+  },
+  {
+    "id": 53,
+    "title": "The Artist Looks at Nature",
+    "image": "https://www.artic.edu/iiif/2/1fa655f4-8fcc-df9f-f32d-6e3e41465186/full/843,/0/default.jpg",
+    "artist": "Charles Sheeler",
+    "years": "1943",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 3.050.000.000"
+  },
+  {
+    "id": 54,
+    "title": "Magnolias on Light Blue Velvet Cloth",
+    "image": "https://www.artic.edu/iiif/2/0729fbba-51e3-a2d7-6d4d-61c2be62af3f/full/1686,/0/default.jpg",
+    "artist": "Martin Johnson Heade",
+    "years": "1885–95",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 4.568.050.000"
+  },
+  {
+    "id": 55,
+    "title": "Icebound",
+    "image": "https://www.artic.edu/iiif/2/3ae75415-0551-ae17-c478-3b8687a6f246/full/1686,/0/default.jpg",
+    "artist": "John Henry Twachtman ",
+    "years": "c. 1889",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 8.670.000.000"
+  },
+  {
+    "id": 56,
+    "title": "Early Morning, Tarpon Springs",
+    "image": "https://www.artic.edu/iiif/2/ef96e79b-f481-8114-0804-4bd39c101983/full/1686,/0/default.jpg",
+    "artist": "George Inness",
+    "years": "1892",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 3.200.000.000"
+  },
+  {
+    "id": 57,
+    "title": "Boy on a Ram",
+    "image": "https://www.artic.edu/iiif/2/e54a695c-16df-cf45-9dd4-b517e8c32cc3/full/1686,/0/default.jpg",
+    "artist": "Francisco José de Goya y Lucientes",
+    "years": "1786–87",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 9.290.000.000"
+  },
+  {
+    "id": 58,
+    "title": "Landscape with the Ruins of the Castle of Egmond",
+    "image": "https://www.artic.edu/iiif/2/50ac2e3e-1d1a-553f-6aeb-5c22cf323a8e/full/1686,/0/default.jpg",
+    "artist": "Jacob van Ruisdael",
+    "years": "1650–55",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 999.900.000"
+  },
+  {
+    "id": 59,
+    "title": "The Two Disciples at the Tomb",
+    "image": "https://www.artic.edu/iiif/2/46ff0699-8905-a7d7-92f3-5210c2cc5e51/full/1686,/0/default.jpg",
+    "artist": "Henry Ossawa Tanner",
+    "years": "c. 1906",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 1.200.000.000"
+  },
+  {
+    "id": 60,
+    "title": "Still Life with Geranium",
+    "image": "https://www.artic.edu/iiif/2/d0049e0b-bd55-020e-aa8c-b137d06ae7df/full/1686,/0/default.jpg",
+    "artist": "Henri Matisse",
+    "years": "1906",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 4.500.000.000"
+  },
+  {
+    "id": 61,
+    "title": "Still Life with GeraniumDate:",
+    "image": "https://www.artic.edu/iiif/2/d0049e0b-bd55-020e-aa8c-b137d06ae7df/full/1686,/0/default.jpg",
+    "artist": "Henri Matisse",
+    "years": "1906",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 78.000.000.000"
+  },
+  {
+    "id": 62,
+    "title": "“Untitled”",
+    "image": "https://www.artic.edu/iiif/2/70cb3a8f-fe14-d63f-fabb-4b52de48d02e/full/843,/0/default.jpg",
+    "artist": "Felix Gonzalez-Torres",
+    "years": "1989",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 11.200.000.000"
+  },
+  {
+    "id": 63,
+    "title": "“Skyscraper” Cabinet",
+    "image": "https://www.artic.edu/iiif/2/7faa3158-22a5-58f0-facb-8ed2b23f28fa/full/843,/0/default.jpg",
+    "artist": "Paul Theodore Frankl",
+    "years": "c. 1927",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 12.200.000.000"
+  },
+  {
+    "id": 64,
+    "title": "The Beginning",
+    "image": "https://www.artic.edu/iiif/2/966f069d-f9e9-b766-90c2-b9aa16d26242/full/843,/0/default.jpg",
+    "artist": "Barnett Newman",
+    "years": "1946",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 19.200.000.000"
+  },
+  {
+    "id": 65,
+    "title": "The Emperor Sailing, from The Story of the Emperor of China",
+    "image": "https://www.artic.edu/iiif/2/17455fc4-14ec-b892-93d2-ebf89c7c689e/full/1686,/0/default.jpg",
+    "artist": " Guy-Louis Vernansal ",
+    "years": "1716/22",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 12.220.000.000"
+  },
+  {
+    "id": 66,
+    "title": "The actor Bando Mitsugoro II as Ishii Genzo",
+    "image": "https://www.artic.edu/iiif/2/c0318a0c-9092-43ab-3237-6096d952b2c4/full/1686,/0/default.jpg",
+    "artist": "Toshusai Sharaku 東洲斎 写楽",
+    "years": "1794",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 11.110.000.000"
+  },
+  {
+    "id": 67,
+    "title": "Mr. and Mrs. Herbert A. Jacobs House, Middleton, Wisconsin, Perspective",
+    "image": "https://www.artic.edu/iiif/2/7b673fe8-545a-8073-7dbc-583df25b6032/full/843,/0/default.jpg",
+    "artist": "Frank Lloyd Wright",
+    "years": "1944",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 12.670.000.000"
+  },
+  {
+    "id": 68,
+    "title": "Untitled",
+    "image": "https://www.artic.edu/iiif/2/ec212e04-fd5a-1c3b-bef0-13bffa607e73/full/843,/0/default.jpg",
+    "artist": "Robert Rauschenberg",
+    "years": "c. 1955",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 10.200.000.000"
+  },
+  {
+    "id": 69,
+    "title": "Two Plant Specimens",
+    "image": "https://www.artic.edu/iiif/2/f4b72c7b-83e4-3008-d66f-46d87c30ca96/full/1686,/0/default.jpg",
+    "artist": "William Henry Fox Talbot",
+    "years": "1839",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 22.200.000.000"
+  },
+  {
+    "id": 70,
+    "title": "Crouching Woman",
+    "image": "https://www.artic.edu/iiif/2/116cad6f-d97f-f6d1-07a5-a19e9eaeebe7/full/1686,/0/default.jpg",
+    "artist": "Eugène Delacroix",
+    "years": "1827",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 9.200.000.000"
+  },
+  {
+    "id": 71,
+    "title": "Pillars of the Country",
+    "image": "https://www.artic.edu/iiif/2/48450f9e-295e-604b-851e-ad66a30712a5/full/1686,/0/default.jpg",
+    "artist": "Yao Shou",
+    "years": "Ming dynasty (1368–1644), 1494",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 8.200.900.000"
+  },
+  {
+    "id": 72,
+    "title": "Landscapes",
+    "image": "https://www.artic.edu/iiif/2/a37ab83b-29aa-7439-5166-58a5b09c28f2/full/843,/0/default.jpg",
+    "artist": "Huang Binhong",
+    "years": "1945-55",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 98.200.000.000"
+  },
+  {
+    "id": 73,
+    "title": "Lion (One of a Pair, South Pedestal)",
+    "image": "https://www.artic.edu/iiif/2/6b1edb9c-0f3f-0ee3-47c7-ca25c39ee360/full/843,/0/default.jpg",
+    "artist": "Edward Kemeys",
+    "years": "1893",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 21.200.000.000"
+  },
+  {
+    "id": 74,
+    "title": "Self-Portrait",
+    "image": "https://www.artic.edu/iiif/2/7b7a6f39-1cd8-ea2f-9811-18b0e23edac0/full/1686,/0/default.jpg",
+    "artist": "Walter Shirlaw",
+    "years": "1878",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 13.100.000.000"
+  },
+  {
+    "id": 75,
+    "title": "Jeronimo de Bran",
+    "image": "https://www.artic.edu/iiif/2/b9be1be9-e78e-1681-723d-197d7983b23b/full/1686,/0/default.jpg",
+    "artist": "Lucas Emil Vorsterman",
+    "years": "c. 1615–75",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 17.404.000.000"
+  },
+  {
+    "id": 76,
+    "title": "Landscape",
+    "image": "https://www.artic.edu/iiif/2/3a34f988-f779-2e96-1786-8945b6b9c87d/full/1686,/0/default.jpg",
+    "artist": "Jean Charles Cazin (French, 1841–1901)",
+    "years": "c. 1895",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 789.000.000"
+  },
+  {
+    "id": 77,
+    "title": "The Bull",
+    "image": "https://www.artic.edu/iiif/2/ded2fc0d-564a-670a-178e-5acc0af5d823/full/1686,/0/default.jpg",
+    "artist": "Paulus Potter",
+    "years": "1650",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 150.000.000"
+  },
+  {
+    "id": 78,
+    "title": "Still Life: Apples and Green Glass",
+    "image": "https://www.artic.edu/iiif/2/1f61e421-a68a-5b01-af11-1596e268b532/full/843,/0/default.jpg",
+    "artist": "Charles Demuth",
+    "years": "1925",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 12.200.000.000"
+  },
+  {
+    "id": 79,
+    "title": "Scarf (Commemorating the Siege of Leningrad (1941–1944))",
+    "image": "https://www.artic.edu/iiif/2/376eb751-12d9-c6e8-db38-f5fd95ddded0/full/742,/0/default.jpg",
+    "artist": "Miguel Covarrubias",
+    "years": "1941/44",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 12.200.000.000"
+  },
+  {
+    "id": 80,
+    "title": "Cry for Help",
+    "image": "https://www.artic.edu/iiif/2/e0f6284d-3934-f493-6f7e-a02525944519/full/843,/0/default.jpg",
+    "artist": "Josef Hoffmann",
+    "years": "1904",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 12.200.000.000"
+  },
+  {
+    "id": 81,
+    "title": "Side Chair",
+    "image": "https://www.artic.edu/iiif/2/fb998f8c-221d-98ce-204d-94399bae43a1/full/843,/0/default.jpg",
+    "artist": "Warren McArthur",
+    "years": "c. 1936",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 12.200.000.000"
+  },
+  {
+    "id": 82,
+    "title": "Design No. 101",
+    "image": "https://www.artic.edu/iiif/2/187b8dc9-cd27-368f-d564-2fe3ed51689c/full/516,/0/default.jpg",
+    "artist": "Frank Lloyd Wright",
+    "years": "1955",
+    "style": "Contemporary Sculpture / Found Objects / Conceptual Art",
+    "desc": "Konstruksi patung ini menggunakan boneka yang sudah dipakai, kotor, dan ditumpuk dalam susunan besar membentuk sosok manusia setengah lingkar—sebagai metafora tentang dekonstruksi psikologi masa kanak-kanak dan obsesi terhadap kekanak-kanakan yang kehilangan identitas. Estetika visualnya penuh ketegangan antara humor gelap dan kritik sosial terhadap budaya mainstream dan nostalgia anak-anak sebagai objek netral tanpa seksualitas. Ini adalah salah satu karya paling dikenal dari Kelley dan bagian dari koleksi Art Institute of Chicago (donasi Lannan Foundation, inv. no. 1997.147)",
+    "price": "Rp 12.200.000.000"
+  }
+  
 ]
 }
